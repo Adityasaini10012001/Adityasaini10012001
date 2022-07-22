@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adityasaini10012001
+- 👋 Hi, I’m Aditya Saini
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate 
